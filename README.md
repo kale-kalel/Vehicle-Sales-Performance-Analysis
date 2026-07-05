@@ -14,8 +14,8 @@ This project analyzes a dataset from [Kaggle](https://www.kaggle.com/datasets/sy
     - Matplotlib
     - Seaborn
     - SQLAlchemy
-    - SQL
-    - Google Data Studio
+ - MySQL
+ - Google Data Studio
 
 ## Key Findings
  - *550.2K sales* were recorded.
