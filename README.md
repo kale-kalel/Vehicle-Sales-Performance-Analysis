@@ -9,22 +9,22 @@ This project analyzes a dataset from [Kaggle](https://www.kaggle.com/datasets/sy
 
 ## Tools Used
  - Python
-  - Pandas
-  - Numpy
-  - Matplotlib
-  - Seaborn
-  - SQLAlchemy
- - SQL
- - Google Data Studio
+    - Pandas
+    - Numpy
+    - Matplotlib
+    - Seaborn
+    - SQLAlchemy
+    - SQL
+    - Google Data Studio
 
 ## Key Findings
- - **550.2K sales** were recorded.
- - **Selling prices are right-skewed**, indicating that majority of the vehicles are sold at lower price points.
- - **Rolls Royce, Ferrari, and Lamborghini** lead in average selling prices, all averaging above $100,000.
- - **Sedan** is the most sold body type with over 245,000 sales, followed by **SUV** with over 141,000 sales
- - **Selling price decreases** as mileage increases.
- - **Vehicles in excellent condition** have the highest avereage selling price.
- - **Selling price decreases** as vehicle age increase.
- - **51.4% of the vehicles are sold below MMR**, suggesting a buyer-friendly market.
- - Vehicle sales peaked in **June 2015**.
- - **Nissan Infiniti LT** is the leading seller with nearly 30,000 sales.
+ - *550.2K sales* were recorded.
+ - *Selling prices are right-skewed*, indicating that majority of the vehicles are sold at lower price points.
+ - *Rolls Royce, Ferrari, and Lamborghini* lead in average selling prices, all averaging above $100,000.
+ - *Sedan* is the most sold body type with over 245,000 sales, followed by **SUV** with over 141,000 sales
+ - *Selling price decreases* as mileage increases.
+ - *Vehicles in excellent condition* have the highest avereage selling price.
+ - *Selling price decreases* as vehicle age increase.
+ - *51.4% of the vehicles are sold below MMR*, suggesting a buyer-friendly market.
+ - Vehicle sales peaked in *June 2015*.
+ - *Nissan Infiniti LT* is the leading seller with nearly 30,000 sales.
