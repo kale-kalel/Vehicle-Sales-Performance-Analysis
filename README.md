@@ -1,4 +1,4 @@
-# Vehicle Sales Performance Analysis
+# Vehicle Sales Performance Analysis and Dashboard
 
 ## Overview
 This project analyzes a dataset from [Kaggle](https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data) to derive sales insights based on different factors such as vehicle condition, brand, body type, and market value (MMR). The raw dataset was loaded into a local SQL database to simulate a real-world querying environment. Data was then cleaned filtered for outliers using MMR-based ratio analysis, and explored through visualizations to answer analytical and business questions. Findings are summarized through an interactive dashboard built in Google Data Studio.
